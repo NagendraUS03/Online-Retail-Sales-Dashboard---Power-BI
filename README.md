@@ -22,9 +22,12 @@ These transformations were done using Power BI's Power Query Editor.
 
 ### Online-Retail-Sales-Dashboard
 │                                                                                                                                                                                                                                             
-├── Online_Retail_Sales_Dashboard.pbix     # Power BI dashboard file                                                                                                                                                                          
-├── README.md                              # Project documentation                                                                                                                                                                            
-└── sample_data/                           # (Optional) Folder with raw or sample cleaned dataset                                                                                                                                             
+├── Online_Retail_Sales_Dashboard.pbix         # Power BI dashboard file                                                                                                                                                                      
+├── README.md                                  # Project documentation                                                                                                                                                                        
+└── sample_data/                               # (Optional) Folder with raw or sample cleaned dataset                                                                                                                                         
+                                                                                                                                                                                                                                              
+### Dataset Link: https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1654309626143/Online%20Retail%20Data%20Set.xlsx
+
 - - - 
 ## Dashboard Overview
 The dashboard is organized into four separate tabs, each answering a specific business question:
